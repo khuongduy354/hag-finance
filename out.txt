@@ -1,0 +1,6300 @@
+Processing ./TCH.json...
+Tổng số cụm:  1049
+Log chỉnh trật tự:  [
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1-2",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "108-109",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "111-112",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "116-117",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "120-121",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "126-127",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "140-141",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "146-147",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "151-152",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "155-156",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "158-159",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "160-161",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "163-164",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "165-166",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "172-173",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "176-177",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "178-179",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "183-184",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "187-188",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "194-195",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "196-197",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "205-206",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "210-211",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "214-215",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "223-224",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "227-228",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "231-232",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "236-237",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "244-245",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "249-250",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "253-254",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "256-257",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "258-259",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "262-263",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "267-268",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "273-274",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "279-280",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "285-286",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "302-303",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "305-306",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "307-308",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "315-316",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "321-322",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "324-325",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "336-337",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "343-344",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "349-350",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "352-353",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "362-363",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "375-376",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "378-379",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "391-392",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "393-394",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "408-409",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "413-414",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "439-440",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "444-445",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "462-463",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "471-472",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "475-476",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "479-480",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "489-490",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "491-492",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "493-494",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "501-502",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "507-508",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "520-521",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "527-528",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "529-530",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "531-532",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "537-538",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "542-543",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "546-547",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "556-557",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "558-559",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "564-565",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "567-568",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "579-580",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "593-594",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "609-610",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "621-622",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "628-629",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "638-639",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "647-648",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "650-651",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "660-661",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "663-664",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "666-667",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "675-676",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "677-678",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "683-684",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "688-689",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "692-693",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "700-701",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "705-706",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "715-716",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "727-728",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "738-739",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "741-742",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "746-747",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "750-751",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "754-755",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "756-757",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "762-763",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "766-767",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "769-770",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "771-772",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "773-774",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "782-783",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "794-795",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "798-799",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "815-816",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "822-823",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "825-826",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "832-833",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "841-842",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "849-850",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "858-859",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "866-867",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "875-876",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "878-879",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "885-886",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "894-895",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "896-897",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "900-901",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "903-904",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "905-906",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "909-910",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "912-913",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "916-917",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "921-922",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "923-924",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "940-941",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "945-946",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "948-949",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "954-955",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "956-957",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "963-964",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "973-974",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "977-978",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "981-982",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "983-984",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "986-987",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "995-996",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "997-998",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1000-1001",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1008-1009",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1016-1017",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1028-1029",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1032-1033",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1034-1035",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1045-1046",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1051-1052",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1053-1054",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1057-1058",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1059-1060",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1062-1063",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1067-1068",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1073-1074",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1078-1079",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1087-1088",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1095-1096",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1100-1101",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1108-1109",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1114-1115",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1119-1120",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1126-1127",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1140-1141",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1154-1155",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1176-1177",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1184-1185",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1186-1187",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1194-1195",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1197-1198",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1200-1201",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1206-1207",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1208-1209",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1212-1213",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1219-1220",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1223-1224",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1238-1239",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1244-1245",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1257-1258",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1270-1271",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1275-1276",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1278-1279",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1284-1285",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1292-1293",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1301-1302",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1321-1322",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1323-1324",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1330-1331",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1333-1334",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1337-1338",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1339-1340",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1358-1359",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1364-1365",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1367-1368",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1376-1377",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1378-1379",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1382-1383",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1386-1387",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1388-1389",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1400-1401",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1404-1405",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1408-1409",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1423-1424",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1428-1429",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1430-1431",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1434-1435",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1448-1449",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1451-1452",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1453-1454",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1457-1458",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1461-1462",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1468-1469",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1471-1472",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1476-1477",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1481-1482",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1485-1486",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1489-1490",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1493-1494",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1495-1496",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1498-1499",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1510-1511",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1512-1513",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1522-1523",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1531-1532",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1534-1535",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1537-1538",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1540-1541",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1545-1546",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1553-1554",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1558-1559",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1561-1562",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1566-1567",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1571-1572",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1576-1577",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1579-1580",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1581-1582",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1592-1593",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1596-1597",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1598-1599",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1604-1605",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1609-1610",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1620-1621",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1622-1623",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1639-1640",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1643-1644",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1645-1646",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1658-1659",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1664-1665",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1672-1673",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1677-1678",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1681-1682",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1684-1685",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1691-1692",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1693-1694",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1696-1697",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1706-1707",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1715-1716",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1717-1718",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1720-1721",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1724-1725",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1731-1732",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1739-1740",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1743-1744",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1745-1746",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1747-1748",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1754-1755",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1761-1762",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1766-1767",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1773-1774",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1776-1777",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1797-1798",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1827-1828",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1835-1836",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1854-1855",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1857-1858",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1865-1866",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1879-1880",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1899-1900",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1912-1913",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1950-1951",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1959-1960",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1963-1964",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1965-1966",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1979-1980",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1984-1985",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1992-1993",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1994-1995",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "1998-1999",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2023-2024",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2025-2026",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2028-2029",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2036-2037",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2038-2039",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2048-2049",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2052-2053",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2055-2056",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2069-2070",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2074-2075",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2077-2078",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2082-2083",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2085-2086",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2092-2093",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2096-2097",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2108-2109",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2119-2120",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2128-2129",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2136-2137",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2139-2140",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2141-2142",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2149-2150",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2151-2152",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2168-2169",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2170-2171",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2178-2179",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2183-2184",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2191-2192",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2194-2195",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2204-2205",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2213-2214",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2227-2228",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2229-2230",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2246-2247",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2251-2252",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2259-2260",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2270-2271",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2288-2289",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2310-2311",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2320-2321",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2322-2323",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2338-2339",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2340-2341",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2342-2343",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2367-2368",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2371-2372",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2390-2391",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2394-2395",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2434-2435",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2438-2439",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2441-2442",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2447-2448",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2450-2451",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2452-2453",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2456-2457",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2459-2460",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2466-2467",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2473-2474",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2477-2478",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2484-2485",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2488-2489",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2500-2501",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2503-2504",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2506-2507",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2515-2516",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2518-2519",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2520-2521",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2522-2523",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2528-2529",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2535-2536",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2538-2539",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2540-2541",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2543-2544",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2548-2549",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2550-2551",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2556-2557",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2560-2561",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2563-2564",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2566-2567",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2571-2572",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2574-2575",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2579-2580",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2582-2583",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2584-2585",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2588-2589",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2595-2596",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2601-2602",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2605-2606",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2610-2611",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2612-2613",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2616-2617",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2623-2624",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2629-2630",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2632-2633",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2635-2636",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2638-2639",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2641-2642",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2651-2652",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2662-2663",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2665-2666",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2670-2671",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2673-2674",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2676-2677",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2687-2688",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2690-2691",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2700-2701",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2702-2703",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2705-2706",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2718-2719",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2721-2722",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2723-2724",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2725-2726",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2741-2742",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2754-2755",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2762-2763",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2765-2766",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2769-2770",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2771-2772",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2779-2780",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2790-2791",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2800-2801",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2802-2803",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2804-2805",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2809-2810",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2813-2814",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2816-2817",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2821-2822",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2824-2825",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2826-2827",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2828-2829",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2834-2835",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2844-2845",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2847-2848",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2850-2851",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2852-2853",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2854-2855",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2860-2861",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2866-2867",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2870-2871",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2874-2875",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2878-2879",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2886-2887",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2890-2891",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2892-2893",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2900-2901",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2903-2904",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2912-2913",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2925-2926",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2929-2930",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2933-2934",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2935-2936",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2942-2943",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2945-2946",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2947-2948",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2949-2950",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2951-2952",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2954-2955",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2964-2965",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2971-2972",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2975-2976",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2979-2980",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2981-2982",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2985-2986",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2988-2989",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2991-2992",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2996-2997",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "2999-3000",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3004-3005",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3007-3008",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3009-3010",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3019-3020",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3025-3026",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3027-3028",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3031-3032",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3033-3034",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3036-3037",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3039-3040",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3054-3055",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3060-3061",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3063-3064",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3067-3068",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3069-3070",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3075-3076",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3085-3086",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3092-3093",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3094-3095",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3098-3099",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3109-3110",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3112-3113",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3117-3118",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3129-3130",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3132-3133",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3135-3136",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3138-3139",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3140-3141",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3143-3144",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3146-3147",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3151-3152",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3153-3154",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3161-3162",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3166-3167",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3173-3174",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3178-3179",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3180-3181",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3182-3183",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3189-3190",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3194-3195",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3197-3198",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3210-3211",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3213-3214",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3215-3216",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3217-3218",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3221-3222",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3226-3227",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3235-3236",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3237-3238",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3239-3240",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3248-3249",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3250-3251",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3266-3267",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3276-3277",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3290-3291",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3292-3293",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3298-3299",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3302-3303",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3305-3306",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3307-3308",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3310-3311",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3316-3317",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3321-3322",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3326-3327",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3328-3329",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3331-3332",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3339-3340",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3350-3351",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3357-3358",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3360-3361",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3370-3371",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3381-3382",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3385-3386",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3390-3391",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3392-3393",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3394-3395",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3396-3397",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3404-3405",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3406-3407",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3416-3417",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3418-3419",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3423-3424",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3428-3429",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3441-3442",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3454-3455",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3460-3461",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3484-3485",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3486-3487",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3488-3489",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3492-3493",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3501-3502",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3505-3506",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3517-3518",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3521-3522",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3527-3528",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3530-3531",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3534-3535",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3537-3538",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3551-3552",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3558-3559",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3562-3563",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3566-3567",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3575-3576",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3584-3585",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3589-3590",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3595-3596",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3617-3618",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3627-3628",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3629-3630",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3635-3636",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3638-3639",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3641-3642",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3659-3660",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3667-3668",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3685-3686",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3689-3690",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3692-3693",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3694-3695",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3708-3709",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3713-3714",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3716-3717",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3718-3719",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3725-3726",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3735-3736",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3742-3743",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3745-3746",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3750-3751",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3754-3755",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3757-3758",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3761-3762",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3763-3764",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3771-3772",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3783-3784",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3791-3792",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3798-3799",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3805-3806",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3813-3814",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3816-3817",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3821-3822",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3825-3826",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3831-3832",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3834-3835",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3845-3846",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3850-3851",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3858-3859",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3865-3866",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3868-3869",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3874-3875",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3876-3877",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3878-3879",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3886-3887",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3892-3893",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3895-3896",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3906-3907",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3923-3924",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3936-3937",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3944-3945",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3948-3949",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3950-3951",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3956-3957",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3963-3964",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3965-3966",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3967-3968",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3974-3975",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3989-3990",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3993-3994",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "3996-3997",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4018-4019",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4020-4021",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4027-4028",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4029-4030",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4032-4033",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4035-4036",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4046-4047",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4058-4059",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4073-4074",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4076-4077",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4080-4081",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4084-4085",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4091-4092",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4094-4095",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4112-4113",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4135-4136",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4141-4142",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4143-4144",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4164-4165",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4173-4174",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4188-4189",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4192-4193",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4202-4203",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4205-4206",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4213-4214",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4215-4216",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4225-4226",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4236-4237",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4250-4251",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4261-4262",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4272-4273",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4280-4281",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4285-4286",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4290-4291",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4302-4303",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4308-4309",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4312-4313",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4316-4317",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4319-4320",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4321-4322",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4325-4326",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4340-4341",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4345-4346",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4349-4350",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4379-4380",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4385-4386",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4392-4393",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4397-4398",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4400-4401",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4419-4420",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4435-4436",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4460-4461",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4468-4469",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4478-4479",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4482-4483",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4484-4485",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4489-4490",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4501-4502",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4505-4506",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4509-4510",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4517-4518",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4520-4521",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4536-4537",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4543-4544",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4545-4546",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4553-4554",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4556-4557",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4558-4559",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4560-4561",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4563-4564",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4567-4568",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4570-4571",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4573-4574",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4578-4579",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4585-4586",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4589-4590",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4593-4594",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4596-4597",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4598-4599",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4611-4612",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4613-4614",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4616-4617",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4621-4622",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4630-4631",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4635-4636",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4640-4641",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4643-4644",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4659-4660",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4666-4667",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4669-4670",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4679-4680",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4682-4683",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4685-4686",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4693-4694",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4697-4698",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4707-4708",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4710-4711",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4717-4718",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4719-4720",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4722-4723",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4724-4725",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4727-4728",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4729-4730",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4736-4737",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4743-4744",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4758-4759",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4771-4772",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4773-4774",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4777-4778",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4779-4780",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4782-4783",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4784-4785",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4790-4791",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4800-4801",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4804-4805",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4811-4812",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4818-4819",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4824-4825",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4835-4836",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4840-4841",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4848-4849",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4853-4854",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4856-4857",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4867-4868",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4871-4872",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4875-4876",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4879-4880",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4888-4889",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4909-4910",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4917-4918",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4920-4921",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4926-4927",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4932-4933",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4941-4942",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4944-4945",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4949-4950",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4952-4953",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4956-4957",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4961-4962",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4966-4967",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4969-4970",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4971-4972",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4981-4982",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4988-4989",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4992-4993",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4994-4995",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "4996-4997",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5000-5001",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5003-5004",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5009-5010",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5013-5014",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5015-5016",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5022-5023",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5027-5028",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5032-5033",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5034-5035",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5037-5038",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5041-5042",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5043-5044",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5045-5046",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5050-5051",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5054-5055",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5057-5058",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5060-5061",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5063-5064",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5068-5069",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5073-5074",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5076-5077",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5081-5082",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5085-5086",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5090-5091",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5100-5101",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5104-5105",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5106-5107",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5111-5112",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5113-5114",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5115-5116",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5126-5127",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5129-5130",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5132-5133",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5135-5136",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5138-5139",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5141-5142",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5143-5144",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5147-5148",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5156-5157",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5158-5159",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5162-5163",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5167-5168",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5170-5171",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5172-5173",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5174-5175",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5179-5180",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5182-5183",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5186-5187",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5188-5189",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5190-5191",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5195-5196",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5197-5198",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5199-5200",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5211-5212",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5213-5214",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5219-5220",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5226-5227",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5231-5232",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5247-5248",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5253-5254",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5257-5258",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5260-5261",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5266-5267",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5269-5270",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5273-5274",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5275-5276",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5288-5289",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5291-5292",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5294-5295",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5298-5299",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5300-5301",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5318-5319",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5322-5323",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5326-5327",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5329-5330",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5351-5352",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5354-5355",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5356-5357",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5362-5363",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5375-5376",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5380-5381",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5383-5384",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5389-5390",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5395-5396",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5405-5406",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5417-5418",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5426-5427",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5456-5457",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5466-5467",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5469-5470",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5474-5475",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5477-5478",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5482-5483",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5487-5488",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5491-5492",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5507-5508",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5523-5524",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5533-5534",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5535-5536",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5546-5547",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5549-5550",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5567-5568",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5573-5574",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5577-5578",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5592-5593",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5594-5595",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5625-5626",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5627-5628",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5633-5634",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5636-5637",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5638-5639",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5647-5648",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5656-5657",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5662-5663",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5670-5671",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5687-5688",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5692-5693",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5696-5697",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5701-5702",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5704-5705",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5710-5711",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5718-5719",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5721-5722",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5732-5733",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5746-5747",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5751-5752",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5764-5765",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5777-5778",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5780-5781",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5793-5794",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5806-5807",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5810-5811",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5830-5831",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5833-5834",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5841-5842",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5844-5845",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5859-5860",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5868-5869",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5880-5881",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5886-5887",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5892-5893",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5896-5897",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5899-5900",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5902-5903",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5916-5917",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5922-5923",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5927-5928",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5929-5930",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5940-5941",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5946-5947",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5952-5953",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5954-5955",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5980-5981",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5984-5985",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5988-5989",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5991-5992",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5997-5998",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "5999-6000",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6002-6003",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6034-6035",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6038-6039",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6043-6044",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6050-6051",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6081-6082",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6083-6084",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6086-6087",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6099-6100",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6102-6103",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6115-6116",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6123-6124",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6131-6132",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6140-6141",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6144-6145",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6149-6150",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6158-6159",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6167-6168",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6169-6170",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6182-6183",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6190-6191",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6194-6195",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6206-6207",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6211-6212",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6226-6227",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6249-6250",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6255-6256",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6258-6259",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6265-6266",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6273-6274",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6277-6278",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6282-6283",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6295-6296",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6304-6305",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6306-6307",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6320-6321",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6322-6323",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6338-6339",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6341-6342",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6344-6345",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6348-6349",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6372-6373",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6380-6381",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6390-6391",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6400-6401",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6403-6404",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6414-6415",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6417-6418",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6423-6424",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6429-6430",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6437-6438",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6445-6446",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6452-6453",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6455-6456",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6457-6458",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6482-6483",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6494-6495",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6501-6502",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6509-6510",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6515-6516",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6518-6519",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6521-6522",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6526-6527",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6545-6546",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6562-6563",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6567-6568",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6570-6571",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6576-6577",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6580-6581",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6605-6606",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6608-6609",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6615-6616",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6629-6630",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6632-6633",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6655-6656",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6673-6674",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6690-6691",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6694-6695",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6698-6699",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6707-6708",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6710-6711",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6715-6716",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6720-6721",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6724-6725",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6729-6730",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6733-6734",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6736-6737",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6755-6756",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6763-6764",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6769-6770",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6773-6774",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6783-6784",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6785-6786",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6792-6793",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6798-6799",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6825-6826",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6827-6828",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6831-6832",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6835-6836",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6839-6840",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6848-6849",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6852-6853",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6856-6857",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6864-6865",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6868-6869",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6872-6873",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6876-6877",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6882-6883",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6891-6892",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6922-6923",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6924-6925",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6926-6927",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6933-6934",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6936-6937",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6940-6941",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6942-6943",
+        "Có thay đổi: ": false,
+        "Message: ": "Không có thay đổi"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6945-6946",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    },
+    {
+        "Size of chunk: ": 2,
+        "Row ảnh hưởng": "6971-6972",
+        "Có thay đổi: ": true,
+        "Message: ": "Đã hoán vị cụm này"
+    }
+]
+Đã xuất ra Excel: ./TCH_fixed.xlsx
+✅ Processing complete!
