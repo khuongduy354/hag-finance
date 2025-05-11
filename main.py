@@ -21,9 +21,9 @@ def main():
 
     json_path = "./TCH.json"
     
-    print(f"Processing {json_path}...") 
+    print(f"processing {json_path}...") 
 
-    # Đọc input từ file json thành list trong python 
+    # đọc input từ file json thành list trong python 
     all_rows:list = input_handler.json_to_py(json_path)           
 
 
@@ -36,7 +36,16 @@ def main():
     input_handler.py_to_excel(fixed_rows, "./TCH_fixed.xlsx")
 
 
-    print("✅ Processing complete!")
+    print("✅ Processing complete!") 
 
-if __name__ == "__main__":
+def test_gather_chunks():  
+    all_rows:list = input_handler.json_to_py("./TCH.json")           
+    # Test gather_chunks function
+    chunks = solution.gather_chunks(all_rows) 
+
+    new_list = solution.edit_rows_based_on_chunks(all_rows, chunks)  
+    input_handler.py_to_excel(new_list, "./TCH_chunking.xlsx")
+
+if __name__ == "__main__": 
+    # test_gather_chunks()
     main()

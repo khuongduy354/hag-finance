@@ -12,7 +12,7 @@ def is_giao_dich(row)->bool:
     return True 
 
 def is_lenh(row)->bool: 
-    return not is_giao_dich(row)
+    return not is_giao_dich(row) and row["Loại"] != ""
 
 def is_in_time_interval(t1: dict, t2: dict, interval: int = 1) -> bool:  
     t1 = t1["Thời gian"]
@@ -51,71 +51,98 @@ def get_row_at_idx(l: list, idx: int, c: list[callable]):
                 return None
         return item
 
+def gather_chunks(all_rows: list) -> list: 
+    i = 0 
+    chunk = []
+    chunks:list[list] = [] 
+    while i < len(all_rows):  
+        row = all_rows[i] 
+        if is_lenh(row): 
+            next_gd = get_row_at_idx(all_rows, i + 1, [lambda_in_time(row), is_giao_dich]) 
+            if next_gd:  
+                chunk.append({"row": row, "idx": i})     
+
+                chunk.append({"row": next_gd, "idx": i + 1}) 
+                i += 1
+
+        if len(chunk) > 0:
+            chunks.append(chunk)
+        chunk = []
+        i += 1
+
+    for c in chunks:  
+        for row in c:  
+            row["row"]["Đánh dấu cụm"] = True
+
+    # chunks = [ 
+    #     [{row: r1, idx: i1}, {row: r2, idx: i2}] 
+    #     [{row:r3, idx: i3}, {row: r4, idx: i4}]
+    # ]
+         
+    return chunks  
+
+
+def edit_rows_based_on_chunks(all_rows: list, chunks: list) -> list:   
+    new_list = all_rows.copy()  
+    for chunk in chunks:  
+        for row in chunk:    
+            # for every row in chunk 
+            # find row in original list 
+            # edit it 
+            for i in range(len(all_rows)):  
+                if row.get("row") is None or row.get("row").get("Thời gian") is None: 
+                    raise ValueError("Chunk format lỗi: ", row) 
+
+                if all_rows[i]["Thời gian"] == row["row"]["Thời gian"]:   
+                    # print("rewriting row: ", all_rows[i]["Thời gian"]) 
+                    # print("row", row["row"])
+                    new_list[i] = row["row"] 
+                    break
+
+    return new_list 
+
 
 def fix_sync(all_rows: list) -> list:     
     new_rows = all_rows.copy()
 
-    # Gom cụm
-    i = 0 
-    chunk = []
-    chunks:list[list] = [] 
-    while i < len(all_rows):
-        if is_lenh(all_rows[i]):           
-            curr_lenh = all_rows[i] 
-
-            # Lấy giao dịch tiếp theo trong interval 
-            next_gd = get_row_at_idx(all_rows, i+1, [is_giao_dich, lambda_in_time(curr_lenh)]) 
-            if next_gd is not None:    
-                # Thêm lệnh hiện tại
-                chunk.append({"row": curr_lenh, "idx": i}) 
-                # Thêm giao dịch tiếp theo
-                i+=1
-                chunk.append({"row": next_gd, "idx": i}) 
-
-                # Lấy lệnh tiếp tiếp theo (sau giao dịch)  
-                next_next_lenh = get_row_at_idx(all_rows, i+2, [is_lenh, lambda_in_time(next_gd)]) 
-                if next_next_lenh is not None:  
-                    # Thêm lệnh tiếp tiếp theo
-                    i+=1
-                    chunk.append({"row": next_next_lenh, "idx": i}) 
-
-            # Thêm vào ds cụm
-            if len(chunk) > 0: 
-                chunks.append(chunk) 
-                chunk = []
-        i+=1
-
+    # Gom cụm 
+    chunks = gather_chunks(all_rows)
     logs = [] 
     print("Tổng số cụm: ", len(chunks))  
 
-    # TODO: fix chunk here, some list, some dict
+
+    # Xử lý từng cụm
+    new_chunks = []
     for i,_chunk in enumerate(chunks):     
         if len(_chunk) <= 1:  
-            # Nếu chỉ có 1 dòng thì không cần xử lý
-            continue  
+            raise ValueError("Cụm không hợp lệ: ", _chunk)
 
-        _chunk = sorted(_chunk, key=lambda x: x["row"]["Thời gian"]) 
-        chunk = [x["row"] for x in _chunk]  
-        start_row = _chunk[0]["idx"]
+        # _chunk = sorted(_chunk, key=lambda x: x["row"]["Thời gian"]) 
+        # chunk = [x["row"] for x in _chunk]  
+        # start_row = _chunk[0]["idx"]
 
         # Nhớ thứ tự 
-        giao_dich_order = list(filter(is_giao_dich,chunk))
-        lenh_order = list(filter(lambda x: not is_giao_dich(x), chunk))
+        # giao_dich_order = list(filter(is_giao_dich,chunk))
+        # lenh_order = list(filter(lambda x: not is_giao_dich(x), chunk))
         
         # Hoán vị    
-        perms = [list (p) for p in itertools.permutations(chunk)]
+        # perms = [list (p) for p in itertools.permutations(chunk)]
 
-        # Lọc các hoán vị không đúng thứ tự 
-        valid_perms = []
-        for p in perms:      
-            giao_dich_part = list(filter(is_giao_dich, p))
-            lenh_part = list(filter(lambda x: not is_giao_dich(x), p))
+        # # Lọc các hoán vị không đúng thứ tự 
+        # valid_perms = []
+        # for p in perms:      
+        #     giao_dich_part = list(filter(is_giao_dich, p))
+        #     lenh_part = list(filter(lambda x: not is_giao_dich(x), p))
 
-            if giao_dich_part == giao_dich_order and lenh_part == lenh_order:  
-                valid_perms.append(p) 
+        #     if giao_dich_part == giao_dich_order and lenh_part == lenh_order:  
+        #         valid_perms.append(p) 
 
 
         # Tính tổng    
+        valid_perms = []
+        valid_perms.append(_chunk)   
+        valid_perms.append(_chunk[::-1]) 
+
         min_sum = float("inf") 
         best_perm_idx = -1   
         for i,p in enumerate(valid_perms):     
@@ -123,14 +150,15 @@ def fix_sync(all_rows: list) -> list:
 
             # Lấy độ lệch từng hoán vị
             for j,row in enumerate(p):   
+                row = row["row"]
                 if j == len(p) - 1:
                     # Nếu là dòng cuối thì không cần tính
-                    continue
+                    break
 
                 delta = 0 
 
                 # Dòng lệnh: Tăng/giảm = Chờ_mới - Chờ_cũ + KL_lệnh. 
-                next_row = p[j+1]    
+                next_row = p[j+1]["row"]     
                 if not is_giao_dich(row):    
                     delta = next_row["Chờ mua 1"] - row["Chờ mua 1"] + input_handler.to_float(row["Khối lượng"])  
                 else: 
@@ -144,28 +172,31 @@ def fix_sync(all_rows: list) -> list:
                 min_sum = sum
                 best_perm_idx = i
         
-        # Gán lại thứ tự cho cụm
-        if best_perm_idx == -1: 
-            print("Lỗi không tìm thấy hoán vị nào hợp lệ") 
-            raise Exception("Lỗi không tìm thấy hoán vị nào hợp lệ") 
 
-        best_perm = valid_perms[best_perm_idx]    
-        if len(best_perm) != len(chunk):  
-            print("Lỗi hoán vị không có cùng số rows với cụm ban đầu: ", len(best_perm), len(chunk)) 
-            raise Exception("Lỗi: ", len(best_perm), len(chunk))
+        if best_perm_idx == -1:  
+            raise ValueError("Không tìm thấy hoán vị hợp lệ") 
+        
+        best_perm = valid_perms[best_perm_idx]
+        changed = best_perm_idx != 0
+        sorted_time = sorted([x["row"]["Thời gian"] for x in best_perm], key=lambda x: datetime.datetime.strptime(x, "%H:%M:%S"), reverse=True)
 
-        new_rows[start_row:start_row + len(chunk)] = best_perm
+        for i in range(len(best_perm)): 
+            best_perm[i]["row"]["Thời gian"] = sorted_time[i] 
+
+        if not changed:  
+            for i in range(len(best_perm)): 
+                best_perm[i]["row"]["Đánh dấu cụm"] = False 
+        new_chunks.append(best_perm) 
 
 
-        changed = chunk == best_perm
         logs.append({  
-            "Size of chunk: ": len(chunk),
-            "Row ảnh hưởng": str(start_row) + "-" + str(start_row + len(chunk) - 1),
+            "Timestamp ảnh hưởng ": [x["row"]["Thời gian"] for x in _chunk],
             "Có thay đổi: ": changed,  
             "Message: ": "Đã hoán vị cụm này" if changed else "Không có thay đổi",
+            # "Thứ tự gốc: ": [x["Thời gian"] for x in _chunk],
+            # "Thứ tự mới: ": [x["Thời gian"] for x in best_perm],
         })   
 
-
-
+    new_rows = edit_rows_based_on_chunks(new_rows, new_chunks)
     
     return new_rows, logs

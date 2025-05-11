@@ -201,7 +201,11 @@ def py_to_excel(all_rows: list, file_name:str):
             direction = row.get("price_direction", "decrease")
             fill_color = color_decrease if direction == "decrease" else color_increase
             for c_idx in range(1, len(headers) + 1):
-                ws.cell(row=r_idx, column=c_idx).fill = fill_color
+                ws.cell(row=r_idx, column=c_idx).fill = fill_color 
+
+        if row.get("Đánh dấu cụm") == 1:
+            for c_idx in range(1, len(headers) + 1):
+                ws.cell(row=r_idx, column=c_idx).fill = PatternFill(start_color="FF0000", end_color="FF0000", fill_type="solid")
     
     stock_name = os.path.basename(file_name).split('.')[0]
     excel_file = os.path.join(os.path.dirname(file_name), f"{stock_name}.xlsx")
