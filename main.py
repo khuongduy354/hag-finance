@@ -375,7 +375,7 @@ def gather_chunks(all_rows: list) -> list:
     chunk = []
     chunks:list[list] = [] 
     while i < len(all_rows):  
-        row = all_rows[i] 
+        row = all_rows[i]  
         if is_lenh(row): 
             next_gd = get_row_at_idx(all_rows, i + 1, [lambda_in_time(row), is_giao_dich]) 
             if next_gd:  
@@ -389,16 +389,29 @@ def gather_chunks(all_rows: list) -> list:
         chunk = []
         i += 1
 
-    for c in chunks:  
-        for row in c:  
-            row["row"]["Đánh dấu cụm"] = True
+    # for c in chunks:  
+    #     for row in c:  
+    #         row["row"]["Đánh dấu cụm"] = True
 
     # chunks = [ 
     #     [{row: r1, idx: i1}, {row: r2, idx: i2}] 
     #     [{row:r3, idx: i3}, {row: r4, idx: i4}]
-    # ]
-         
-    return chunks  
+    # ] 
+
+    # lọc cụm chứa thay đổi bước giá  
+
+    res = []
+    for idx, chunk in enumerate(chunks):  
+        thay_doi = False
+        for row in chunk:   
+            if "Thay đổi bước giá" in row["row"]: 
+                if row["row"]["Thay đổi bước giá"] == 1:   
+                    thay_doi = True
+        
+        if not thay_doi:
+            res.append(chunk)
+
+    return res  
 
 
 def edit_rows_based_on_chunks(all_rows: list, chunks: list) -> list:   
