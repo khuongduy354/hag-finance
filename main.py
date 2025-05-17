@@ -520,10 +520,9 @@ def main():
     for json_path in json_list:
     
         print(f"Processing {json_path}...") 
-        file_name = os.path.basename(json_path).split('.')[0] 
 
         # đọc input từ file json thành list trong python 
-        all_rows:list = json_to_py(file_name + "-fixed.json")           
+        all_rows:list = json_to_py(json_path)           
 
 
         # Xử lý lỗi bất đồng bộ của data 
@@ -533,7 +532,8 @@ def main():
         # in logs để debug
         # print("Log chỉnh trật tự: ",json.dumps(logs, indent=4, ensure_ascii=False))
         # Xuất ra excel 
-        py_to_excel(fixed_rows, file_name)
+        file_name = os.path.basename(json_path).split('.')[0] 
+        py_to_excel(fixed_rows, file_name + "-fixed.xlsx")
 
 
         print("✅ Processing complete!") 
